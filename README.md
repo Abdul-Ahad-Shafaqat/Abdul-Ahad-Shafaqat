@@ -30,6 +30,5 @@ I’m a cybersecurity student learning the fundamentals of computer networks, et
 ---
 
 ## 📫 Contact
-- Email: abdulahadshafaqat@example.com  
-- LinkedIn: _Add your link here_
+- Email: 24-cys-005@student.hitecuni.edu.pk
 
