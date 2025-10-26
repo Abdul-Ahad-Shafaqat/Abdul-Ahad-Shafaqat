@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Abdul Ahad Shafaqat
 
-<!--
-**Abdul-Ahad-Shafaqat/Abdul-Ahad-Shafaqat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity student learning the fundamentals of computer networks, ethical hacking, and system security. I enjoy exploring how technology works and how to make it more secure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 My Learning Journey
+- Learning the basics of **Linux** and **networking**  
+- Exploring tools like **Nmap**, **Wireshark**, and **Metasploit**  
+- Practicing **Python scripting** for automation and security tasks  
+- Studying core **information security concepts** and common cyber threats
+
+---
+
+## 💻 Languages I’m Familiar With
+- Python  
+- C  
+- C++  
+- HTML  
+- CSS  
+
+---
+
+## 🎯 My Goals
+- Build a strong foundation in **cybersecurity and networking**  
+- Learn more about **ethical hacking tools and techniques**  
+- Improve my **programming and problem-solving skills**  
+- Start contributing to **open-source cybersecurity projects** in the future
+
+---
+
+## 📫 Contact
+- Email: abdulahadshafaqat@example.com  
+- LinkedIn: _Add your link here_
+
